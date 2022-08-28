@@ -3,7 +3,7 @@ package sample;
 public class WhileloopDemo1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+     //this program is for printing divisible of 5 until 100
 		int i = 1;
 		while (i <= 100) {
 			if (i % 5 == 0) {
